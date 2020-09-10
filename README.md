@@ -1,1 +1,3 @@
 # Hi :)
+
+Btw, I'm in the process of making shapes with my profile page contribution calendar. So, it does not reflect my true contribution distribution...
